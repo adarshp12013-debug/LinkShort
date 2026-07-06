@@ -119,22 +119,6 @@ http://localhost:3000
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of your project here.
-
-Example:
-
-```text
-screenshots/
-├── home.png
-├── shorten-page.png
-├── generated-link.png
-└── mobile-view.png
-```
-
----
-
 ## 🎯 Learning Objectives
 
 This project helped in practicing:
